@@ -1,2 +1,7 @@
 # Quality-hub
-This is the anchor for the web site and all materials related to WP3.
+
+This website is created by the members of the ROSIN project to provide links to deliverables and additional results of our work with ROS quality. 
+
+More is coming up. 
+
+#Stay tuned!
